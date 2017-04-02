@@ -1,6 +1,6 @@
 Project Description
 ================================================================================
-ITOsolution is a powerful tool that takes both test effort and focus into consideration when generating test orders.
+ITOsolution is a powerful tool that takes both test effort and focus into consideration to generate integration test orders.
 
 LICENSE
 ================================================================================
